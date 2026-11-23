@@ -41,7 +41,11 @@ The main objectives of this project are to:
 
 The dashboard provides a visual summary of the field activation performance, including key performance indicators, promoter efficiency, activity concentration and work completion status.
 
+![GlowRoot Naturals Dashboard](glowroot_dashboard.png)
 
+**Want to explore the full analysis?**
+
+![Click here to view and download the Excel workbook](Abigail Abilawon 1.xlsx)
 
 ## Dataset Overview
 
